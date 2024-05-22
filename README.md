@@ -8,9 +8,8 @@ Option to include or exclude special characters.
 User-friendly graphical interface built with Tkinter.
 
 Installation
-Clone the repository
-Install the required libraries; This project uses the tkinter library 
-Run the application
+Clone the repository 
+Run the application in vscode using github desktop 
 
 Usage
 Open the application:
