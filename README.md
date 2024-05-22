@@ -9,7 +9,7 @@ User-friendly graphical interface built with Tkinter.
 
 Installation
 Clone the repository 
-Run the application in vscode using github desktop 
+Run the application in vscode using github desktop *click "run python file" instead of just running it 
 
 Usage
 Open the application:
